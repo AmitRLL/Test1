@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;listandset&apos; to &apos;collectionsTest&apos;&#x0D;&#x0A;- Original project: &apos;TestingClass1&apos;&#x0D;&#x0A;- Original element: &apos;TestingClass1/src/listandset&apos;&#x0D;&#x0A;- Renamed element: &apos;TestingClass1/src/collectionsTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;listandset&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;listandset" name="collectionsTest" qualified="false" references="true" stamp="1652857738319" textual="false" version="1.0"/>
+</session>

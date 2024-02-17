@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;zerodhaSignupTest.java&apos; to &apos;pom.xml&apos;&#x0D;&#x0A;- Original project: &apos;Zerodha&apos;&#x0D;&#x0A;- Destination element: &apos;pom.xml&apos;&#x0D;&#x0A;- Original element: &apos;Test.zerodhaSignupTest.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" element1="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;Test{zerodhaSignupTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1682932174112" target="pom.xml" units="1" version="1.0"/>
+</session>

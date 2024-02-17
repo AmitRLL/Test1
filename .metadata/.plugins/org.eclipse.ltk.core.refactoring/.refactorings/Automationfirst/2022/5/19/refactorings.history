@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;SeleniAuto.testingI&apos; to &apos;testingIDropdown&apos;&#x0D;&#x0A;- Original project: &apos;Automationfirst&apos;&#x0D;&#x0A;- Original element: &apos;SeleniAuto.testingI&apos;&#x0D;&#x0A;- Renamed element: &apos;SeleniAuto.testingIDropdown&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;testingI&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;SeleniAuto{testingI.java[testingI" matchStrategy="1" name="testingIDropdown" qualified="false" references="true" similarDeclarations="false" stamp="1651452750886" textual="false" version="1.0"/>
+</session>

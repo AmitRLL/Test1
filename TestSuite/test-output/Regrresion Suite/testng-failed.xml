@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regrresion Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="secondname" value="18"/>
+  <parameter name="firstname" value="12"/>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="TEST.zerodhaLoginTest">
+        <methods>
+          <include name="clearcookies"/>
+          <include name="clickonNewsingup"/>
+          <include name="callurl"/>
+          <include name="loginwithInvalidData"/>
+          <include name="clickonForgotpassword"/>
+          <include name="loginwithValidData"/>
+        </methods>
+      </class> <!-- TEST.zerodhaLoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Regrresion Suite] -->
